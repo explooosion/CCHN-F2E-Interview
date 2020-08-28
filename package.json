@@ -1,6 +1,6 @@
 {
   "name": "cchn-f2e-interview.git",
-  "homepage": "https://robby570.tw/CCHN-F2E-Interview.git/",
+  "homepage": "https://robby570.tw/CCHN-F2E-Interview/",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.3",
