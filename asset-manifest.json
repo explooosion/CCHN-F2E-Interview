@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/CCHN-F2E-Interview/static/js/main.01f170f3.chunk.js",
+    "runtime-main.js": "/CCHN-F2E-Interview/static/js/runtime-main.a85d9e81.js",
+    "static/js/2.56795787.chunk.js": "/CCHN-F2E-Interview/static/js/2.56795787.chunk.js",
+    "index.html": "/CCHN-F2E-Interview/index.html",
+    "precache-manifest.5adb9437753a53b5c942dfb92da3a77c.js": "/CCHN-F2E-Interview/precache-manifest.5adb9437753a53b5c942dfb92da3a77c.js",
+    "service-worker.js": "/CCHN-F2E-Interview/service-worker.js",
+    "static/js/2.56795787.chunk.js.LICENSE.txt": "/CCHN-F2E-Interview/static/js/2.56795787.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a85d9e81.js",
+    "static/js/2.56795787.chunk.js",
+    "static/js/main.01f170f3.chunk.js"
+  ]
+}
