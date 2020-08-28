@@ -75,10 +75,7 @@ function Home() {
 
   const onChange = (e) => setActive(Number(e.target.value));
 
-  const onSelect = (target) => {
-    console.log(target);
-    setMark(target);
-  }
+  const onSelect = (target) => setMark(target);
 
   const renderOptions = () => {
     return selCharts.map(({ name, value }, index) => <option key={`opt-${index}`} value={value}>{index + 1}. {name}</option>)
